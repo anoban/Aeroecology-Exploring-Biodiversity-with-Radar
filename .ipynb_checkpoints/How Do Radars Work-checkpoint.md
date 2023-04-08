@@ -13,4 +13,12 @@
 
 - ___Radar radiation is polarized when transmitted, meaning that the EMR wave is oriented in a single plane. (The oscillation will be in XY plane / XZ plane / YZ plane). Some radars use dual polarization that sends out EMRs in two orientations. (Oscillation takes place in XYZ plane).___
 
-- ___From a single polarization, the reflection can tell you how far away an object is based on the time taken for the reflection to return.
+- ___From a single polarization, the reflection can tell you how far away an object is based on the time taken for the reflection to return, the total amount of reflected radiation (reflectivty), the average speed with which the object is moving (mean Doppler velocity) and the range of speeds the objects are moving (Doppler spectrum width).___
+
+- ___The advantages of dual polarization radars is that they give much more useful information than either wave in isolation. The differences in the reflectivity of the horizontal and vertical polarization tells us about the differential reflectivity (ZDR). ZDR tells us how tall, thin or short, wide the scattering object might be.___
+
+- ___When the object is roughly spherical (circular cross-section) ZDR ~ 0 dB. When the abject is horizontally oriented (width > height) ZDR > 0 dB. And when the object is vertically oriented (height > width) ZDR < 0 dB.___
+
+- ___The cross correlation coefficient $\rho hv$ tells us about the consistency of the shapes & sizes of objects. A high cross correlation cpefficient suggests that the objects crossing the beam have similar size & shape (e.g. a homogenous population of bees). A low cross correlation coefficient tells us the objects in the beam vary highly in their size & shape (e.g. a heterogenous flock of gulls, crows, falcons and sparrows).___
+
+- ___Specific differential phase $kdp$ which tells us how the horizontal and verttical waves are slowing as they pass through / scattered back from the object. $kdp$ increases with larger and greater number of raindrops. Positive $kdp$ values also indicate a greater phase shift in horizontal signals, which suggests that there are more horizontally oriented targets of larger sizes in the scanning volume.___
