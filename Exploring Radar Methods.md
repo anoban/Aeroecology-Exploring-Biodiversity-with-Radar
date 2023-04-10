@@ -20,5 +20,3 @@
 - ___Halfway between the VLRs and the weather radars, there exist a variety of other designs that can capture a wider spatial volume than the VLR, while retaining some ability to detect and classify individual organisms.___
 
 - ___These systems work similar to the other two methods, using a combination of rotation & mutation to derive information using a single polarized radiation.___
-
-- ___ ___
