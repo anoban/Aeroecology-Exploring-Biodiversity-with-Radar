@@ -24,6 +24,7 @@
 - ___Loss of biodiversity can break links in the foodweb and can ultimately, lead to the collapse of the ecosystems.___
 
 ### ___Intra-specific genetic diversity___
+----------------
 
 - ___This level of diversity is difficult to perceive since these do not generally manifest themselves in noticeable visual differences. This diversity is best explained by the plants and cattle we rely on for our food.___
 
@@ -31,6 +32,20 @@
 
 - ___All apecies are always at risk from diseases/environmental hazards. If one species we depend on food is to suffer such a fate, then the mankind will be forced to face famine. To mitigate such threats, is to maintain a diversity of genotypes within our domesticated species, such that the ecosystem can recover and regain its functionality helped by the diverse species filling the niches left by the lost species.___
 
-### ___Resilience___
+#### ___Resilience___
 
 - ___Diversity confers the ablity to resist environmental chalenges or other challenges at a genetic scale and at a taxonomic scale.___
+
+
+### ___Diversity of ecosystems___
+--------------------
+
+- ___One of the key threat to global biodiversity is the homogenization of landscapes. This happens as humans take a diverse heterogenous patches of natural lands ad turn them into a homogenous lanscape of crop lands and cities.___
+
+- ___What is needed for a healthy, functional ecosystem is to have a variety of natural habitats to be scattered throughout the landscape. The reason for this is that different habitats support different types of organisms.___
+
+- ___Therefore, to achieve a high taxonomic diversity with all the benefits to resiliency that diversity brings, one also needs high ecosystem diversity.___
+
+- ___These habitats provide a variety of different ecosystem services. Ecosystem services are facilities provided by the broader nature from which humans can benefit. In the absence of humans, ecosystems will be maintained by natural disturbances like wildfires, volcanic eruptions, floods, landslides, blizzards and disease/pest epidemics.___
+
+- ___From the time humans started to manipulate the ecosystems to their own benefit, we have taken the liberty to decide what ecosystem exists where and how. This exactly is what has led to most of the ecosystem collapses.___
