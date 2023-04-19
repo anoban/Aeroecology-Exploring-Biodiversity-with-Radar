@@ -18,3 +18,5 @@
 - ___VLRs are also very limited in what they can scan. The details within their scan space is excellent but to make good sense of those details one needs a good grasp of what's happeining in the vicinity (outside) of the scan space, a cause that cannot be helped by the VLRs.___
 
 - ___Consequently, researchers choose a location for VLRs that can give allow them to make representative samples of the local biodiversity. Even with the fine resolution of the small concentrated scope of VLRs, it is still unclear how much taxonomic resolution the VLRs, bird and insect radars bring to the table.___
+
+- ___Difefernt types of radars, each have their strength and weaknesses and each bring advantages tha tare not available through other ecological measurements.___
