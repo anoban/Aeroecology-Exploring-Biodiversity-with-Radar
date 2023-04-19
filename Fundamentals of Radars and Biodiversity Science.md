@@ -12,3 +12,11 @@
 - Radar data are archived in the long term. - T
 - Radar infrastructure is well funded. - T
 - Radar data are easy to analyze. - F
+
+### ___Even though radar data is extremely valuable for studying biodiversity on a global scale, it has its own limitations. There is no "one solution fits all problems here!".___
+
+## ___Q. Why is that?___
+- Radar infrastructures are not found in all countries. - T
+- Radar data cannot detect biodiversity. - F
+- Radar data does not capture historical baselines for biodiversity. - T
+- Existing biodiversity monitoring methods/systems cannot be linked with radar methods. - F
