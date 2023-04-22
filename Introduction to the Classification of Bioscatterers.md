@@ -25,4 +25,12 @@
 
 ## ___Method 2___
 
-- 
+- This method uses simulations to predict what the radar might be seeing, if certain groups of organisms were present.
+
+- Here radar data will be synthesized by simulating insect groups using computer models in a virtual radar space and this data will be studied to analyze what a radar data might look like when certain groups of insects are present at certain densities.
+
+- VLRs and custom made birs/insect radars are better suited for this job. By focusing a specialized wavelength beam in a smaller volume, these radars collect more precise estimates on size, shape, wing beat frequency, etc..
+
+- Algorithms can be trained on existing databases containing the above details of known insects, and the models can then be used to identify insects in new radar data.
+
+- This makes dedicated radars very useful in local studies and in tracking flows of organisms through the air.
